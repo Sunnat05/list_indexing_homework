@@ -7,4 +7,3 @@ def main():
         list: return answer
     """
     return list(range(0))
-print(main())
