@@ -1,5 +1,5 @@
 def main(list1):
-    list1=['1','2','3','4','5']
+    list1=['32','2','3','4','5']
     """
     A list of several elements is given. Return the first item.
     Args:
