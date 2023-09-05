@@ -1,4 +1,5 @@
 def main(list1):
+    list1=['1','2','3','4','5']
     """
     A list of several elements is given. Return the first item.
     Args:
@@ -6,4 +7,5 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+    return list1[0]
+print(main(list[0]))
