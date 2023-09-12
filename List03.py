@@ -9,4 +9,4 @@ def main(list1,list2):
         list: return answer
     """
     return list3
-print(main(['ss','fff','aa','dd'],['ddss','ff']))
+print(main(['s','fff','aa','dd'],['ddss','ff']))
